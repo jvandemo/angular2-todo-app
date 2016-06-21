@@ -6,7 +6,8 @@ import {TodoService} from '../todo.service';
   moduleId: module.id,
   selector: 'todo-app',
   templateUrl: 'todo-app.component.html',
-  styleUrls: ['todo-app.component.css']
+  styleUrls: ['todo-app.component.css'],
+  providers: [TodoService]
 })
 export class TodoAppComponent {
 
