@@ -1,6 +1,10 @@
-# Todo
+# Angular 2 Todo App
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.6.
+This repository contains the source code for the [SitePoint](https://www.sitepoint.com) article ["Angular 2 Todo App - Part 1"](https://www.sitepoint.com) by [Todd Motto](https://twitter.com/toddmotto) and [Jurgen Van de Moere](https://twitter.com/jvandemo).
+
+![angular2-todo-app](https://cloud.githubusercontent.com/assets/1859381/16371153/f36fae94-3c44-11e6-96db-878901598c3a.gif)
+
+Here is a [live demo](https://jvandemo.github.io/angular2-todo-app/) of the application.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -29,3 +33,9 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Change log
+
+### v1.0.0
+
+- Version published with article
